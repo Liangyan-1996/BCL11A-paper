@@ -1,3 +1,3 @@
 ## [Sequence Charge Decoration Matrix (SCDM) analysis](SCDM%20analysis/)
 
-To quantify the electrostatic interactions within the protein sequences and capture their conformational characteristics, we calculated the Sequence Charge Decoration Matrix (SCDM). The code for SCDM calculation was slightly from [the projcect](https://github.com/MaxCalLab/IDPTheory/tree/main) provided by [Valverde et al. (2023)](https://www.nature.com/articles/s41467-023-42049-0)
+To quantify the electrostatic interactions within the protein sequences and capture their conformational characteristics, we calculated the Sequence Charge Decoration Matrix (SCDM). The code for SCDM calculation was slightly from [the projcect](https://github.com/MaxCalLab/IDPTheory/tree/main) provided by [Valverde et al. (2023)](https://www.nature.com/articles/s41467-023-42049-0). Scripts modified from [MaxCalLab SCDM](https://github.com/MaxCalLab/IDPTheory/tree/main/SCDM) `SCDMmap` (CPU).
